@@ -1,0 +1,20 @@
+[Section1] ;comment
+;comment of section
+var1=value_1 ; sometimes it is allowed to comment on a separate parameter
+var2=value_2
+[Section2]
+var1=value_1
+var2=value_2
+# comment unix-type
+; sometimes it is allowed to list multiple values separated by commas
+[Section3]
+var1=value_1_1, value_1_2, value_1_3
+var2=value_2
+[Section3.1]
+var2=value_2
+; Sometimes the values are missing
+[Section4.0]
+[ViewState]
+Mode=
+Vid=
+FolderType=Generic
