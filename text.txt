@@ -1,0 +1,16 @@
+[Section1]
+var1=value_1
+var2=value_2
+[Section2]
+var1=value_1
+var2=value_2
+[Section3]
+var1=value_1_1, value_1_2, value_1_3
+var2=value_2
+[Section3.1]
+var2=value_2
+[Section4.0]
+[ViewState]
+FolderType=Generic
+Mode=
+Vid=
